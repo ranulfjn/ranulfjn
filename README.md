@@ -1,5 +1,5 @@
 Hi there, I'm Ranulf Jonathan Noronha 👋  
-I'm a Student, Developer.
+I'm a Student, Fullstack developer.  
 
 
 
