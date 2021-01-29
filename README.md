@@ -10,6 +10,7 @@ I'm a Student, Fullstack developer.
 ⚡ Fun fact: I love to play football , listen music ,reading football articles.  
 
 Languages and Tools:
+<img src="https://user-images.githubusercontent.com/69053657/106326172-0cfde580-624a-11eb-8167-969351102b4f.png" width="50px">
 Html5 ,CSS ,JavaScript, Nodejs, reactjs , Sql, Github, Vscode, Trello, Bootstrap, Jenkins ,Docker
 
 
