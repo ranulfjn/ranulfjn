@@ -11,7 +11,9 @@ I'm a Student, Fullstack developer.
 
 Languages and Tools:
        
-<img src="https://user-images.githubusercontent.com/69053657/106326172-0cfde580-624a-11eb-8167-969351102b4f.png" width="50px"> <img src="https://user-images.githubusercontent.com/69053657/106326594-ba70f900-624a-11eb-8a96-7c5e774912b1.png" width="50px"> <img src="https://user-images.githubusercontent.com/69053657/106326573-b80e9f00-624a-11eb-9898-7ec28dccdc65.png" width="50px"> <img src="https://user-images.githubusercontent.com/69053657/106326552-b1802780-624a-11eb-98d1-8c4c2e425a10.png" width="90px">
+<img src="https://user-images.githubusercontent.com/69053657/106326172-0cfde580-624a-11eb-8167-969351102b4f.png" width="50px"> <img src="https://user-images.githubusercontent.com/69053657/106326594-ba70f900-624a-11eb-8a96-7c5e774912b1.png" width="50px"> <img src="https://user-images.githubusercontent.com/69053657/106326573-b80e9f00-624a-11eb-9898-7ec28dccdc65.png" width="50px"> <img src="https://user-images.githubusercontent.com/69053657/106326552-b1802780-624a-11eb-98d1-8c4c2e425a10.png" width="90px">  <img src="https://user-images.githubusercontent.com/69053657/106327109-9530ba80-624b-11eb-8072-0c2e38bde434.png" width="90px">  
+
+
 
 
 
