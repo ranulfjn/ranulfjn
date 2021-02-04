@@ -1,6 +1,6 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is  Ranulf Jonathan Noronha and  I'm a Student, Fullstack developer.You can find me on [![LinkedIn][3.2]][3].
+My name is  Ranulf Jonathan Noronha and  I'm a Student, Fullstack developer. You can find me on [![LinkedIn][3.2]][3].
 
 
 🔭 I’m currently working on a covid tracker app    
