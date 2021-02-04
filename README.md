@@ -1,5 +1,6 @@
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ranulf Jonathan Noronha   
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I'm Ranulf Jonathan Noronha   
 I'm a Student, Fullstack developer.  
 
 
