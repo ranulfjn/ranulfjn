@@ -3,9 +3,9 @@
 My name is  Ranulf Jonathan Noronha and  I'm a Student, Fullstack developer. You can find me on [![LinkedIn][3.2]][3].
 
 
-🔭 I’m currently working on a covid tracker app    
-🌱 I’m currently learning Photoshop,AngularJs  
-👯 I’m looking to collaborate with other content creators  
+🔭 I’m currently working on a covid tracker app.    
+🌱 I’m currently learning Photoshop.  
+👯 I’m looking to collaborate with other content creators.  
 🥅 2021 Goals: Contribute more to Open Source projects , learn new programming languages.   
 ⚡ Fun fact: I love to play football , listening music ,reading football articles.  
 
