@@ -3,7 +3,7 @@
 My name is  Ranulf Jonathan Noronha and  I'm a Student, Fullstack developer. You can find me on [![LinkedIn][3.2]][3].
 
 
-🔭 I’m currently working on a E-Commerce Website.    
+🔭 I’m currently working on a Memory App.    
 🌱 I’m currently learning Photoshop.  
 👯 I’m looking to collaborate with other content creators.  
 🥅 2021 Goals: Contribute more to Open Source projects , learn new programming languages.   
