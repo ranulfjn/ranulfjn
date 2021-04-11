@@ -6,7 +6,7 @@ My name is  Ranulf Jonathan Noronha and  I'm a Student, Fullstack developer. You
 🔭 I’m currently working on a Memory App.    
 🌱 I’m currently learning Photoshop.  
 👯 I’m looking to collaborate with other content creators.  
-🥅 2021 Goals: Contribute more to Open Source projects , learn new programming languages.   
+🥅 2021 Goals: Contribute more to Open Source projects , learn graphic design.   
 ⚡ Fun fact: I love to play football , listening music ,reading football articles.  
 
 ## 🔧 Technologies & Tools
